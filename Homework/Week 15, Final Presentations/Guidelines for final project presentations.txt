@@ -1,0 +1,35 @@
+﻿How to organize your presentations
+
+I.	Introduction									10 points
+	A.	Introduce us to your corpus 	 					2 points
+		1.	What information does it contain?
+		2.	How large is it?
+		3.	How accessible is it?  E.g., is it open-access/source?
+	B.	Introduce us to your questions  					8 points
+		1.	What questions are you asking?
+		2.	Why are you asking these questions? I.e., why should they be 			of interest to others?
+II.	Your methods - Give us a detailed view of what you are doing 	30 points
+	A.	What preprocessing of the texts are you doing?  Why are you doing 		these? 									10 points
+		1.	lemmatizing/stemming?
+		2.	part-of-speech/syntactic analysis?
+		3.	semantic analysis?
+		4.	In other words, what type of metadata are you adding to 				improve your analysis results?
+	B.	How are you analyzing your texts? 	 				20 points
+		1.	What features are you using? E.g., words, ngrams, letter 				ngrams, collocates, co-occurrence, part-of-speech tags, etc.?
+		2.	What metrics are you using to measure these features?  Why? 			(Here, you should be able to point to literature that suggests 			your methods)
+		3.	What algorithms are you using to analyze the features?
+III.	Results										30 points
+	A.	How have you been able to answer your questions thus far? 	10 points
+	B.	What do these answers mean? (Refer to I.B.2. above)		15 points
+	C.	What other questions do they suggest?				5 points
+IV.	The outlook?									5 points
+	A.	What are the next tasks you need to accomplish?
+	B.	How much do you expect to have done by the end of the semester?
+IV.	Sell us on your project								10 points
+	A.	What methodological advances will it make?  I.e., what is new and 		different about your method described above
+	B.	What does it tell us about human history, human behavior, human 			society, etc.?
+
+
+Quality of Presentation: 								10 points
+Did Everyone Present: 									5 points
+
